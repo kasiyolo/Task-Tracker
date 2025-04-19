@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "New Task",
+    "status": "done"
+  },
+  {
+    "id": 2,
+    "title": "Write documentation",
+    "status": "todo"
+  }
+]
